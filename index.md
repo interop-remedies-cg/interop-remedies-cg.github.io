@@ -31,7 +31,7 @@ Then, [subscribe](mailto:public-interop-remedies-request@w3.org?subject=subscrib
 
 We also have a [Github organisation](https://github.com/interop-remedies-cg) where most of our work will likely take place, but since we're just starting, it's not very active yet.
 
-We're also likely to hold online meetings to build a community and accelerate the work. Stay tuned.
+We'll be **scheduling our first meeting soon**.
 
 
 ------
