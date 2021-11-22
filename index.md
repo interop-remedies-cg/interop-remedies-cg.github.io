@@ -1,5 +1,7 @@
-
-# Interoperability Remedies Community Group
+---
+title: Interoperability Remedies Community Group
+layout: main
+---
 
 This is the home page of the W3C Interoperability Remedies Community Group.[^1]
 
@@ -32,6 +34,7 @@ We also have a [Github organisation](https://github.com/interop-remedies-cg) whe
 We're also likely to hold online meetings to build a community and accelerate the work. Stay tuned.
 
 
+------
 
-[^1] The [W3C](http://w3.org/) is the international standards body responsible for the Web. 'Community Groups' (also known as 'CGs') are less formal gatherings of interested parties to work on a common goal; they do not produce standards ('Recommendations' in W3C-speak), nor do they necessarily represent consensus of the entire W3C.
+[^1]: The [W3C](http://w3.org/) is the international standards body responsible for the Web. 'Community Groups' (also known as 'CGs') are less formal gatherings of interested parties to work on a common goal; they do not produce standards ('Recommendations' in W3C-speak), nor do they necessarily represent consensus of the entire W3C.
 
