@@ -25,9 +25,9 @@ This is not a complete list; others are welcome to join.
 
 ## How to Participate
 
-[Join the community group here](https://www.w3.org/community/interop-remedies/join). You will need a free [W3C account](https://www.w3.org/accounts/request); paid W3C Membership is not required.
+1. [Join the community group here](https://www.w3.org/community/interop-remedies/join). You will need a free [W3C account](https://www.w3.org/accounts/request); paid W3C Membership is not required.
 
-Then, [subscribe](mailto:public-interop-remedies-request@w3.org?subject=subscribe) to the [mailing list](https://lists.w3.org/Archives/Public/public-interop-remedies/) to keep up-to-date with announcements and decisions.
+2. Then, [subscribe](mailto:public-interop-remedies-request@w3.org?subject=subscribe) to the [mailing list](https://lists.w3.org/Archives/Public/public-interop-remedies/) to keep up-to-date with announcements and decisions.
 
 We also have a [Github organisation](https://github.com/interop-remedies-cg) where most of our work will likely take place, but since we're just starting, it's not very active yet.
 
