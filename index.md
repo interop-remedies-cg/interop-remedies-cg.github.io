@@ -5,8 +5,8 @@ layout: main
 
 This is the home page of the W3C Interoperability Remedies Community Group.[^1]
 
-Our mission is to help legal regulators understand and apply Internet and Web architectural principles -- like privacy, security, internationalisation, and accessibility -- when requiring 'big tech' companies to perform certain behaviours (often, but not always, interoperability).
-
+{: .banner}
+Our mission is to help legal regulators understand and apply Internet and Web architectural principles -- like privacy, security, internationalisation, and accessibility -- when requiring 'big tech' companies to implement technical specifications.
 
 ## Status
 
