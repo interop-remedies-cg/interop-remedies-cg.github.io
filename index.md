@@ -20,7 +20,7 @@ We think that the following sorts of people will be able to effectively contribu
 * **Internet and Web standards experts**: Those with deep understanding of and experience with the Internet's and/or Web's principles and architecture
 * **Legal regulators**: Those who are likely to impose interoperability and similar requirements upon 'big tech' companies to meet some legal goal
 * **Civil society**: Those who advocate for the public interest regarding human rights and similar topics
-* **Academics**: Those who have deeply studied the effects of competition regulation, interoperability requirements, the Internet and Web ecosystems, and similar topics
+* **Academics**: Those who have deeply studied the effects of competition regulation, interoperability requirements, the Internet and Web ecosystems, etc.
 
 Others are, of course, welcome to join.
 
