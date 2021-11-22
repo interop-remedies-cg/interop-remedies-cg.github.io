@@ -33,5 +33,5 @@ We're also likely to hold online meetings to build a community and accelerate th
 
 
 
-[]^1] The [W3C](http://w3.org/) is the international standards body responsible for the Web. 'Community Groups' (also known as 'CGs') are less formal gatherings of interested parties to work on a common goal; they do not produce standards ('Recommendations' in W3C-speak), nor do they necessarily represent consensus of the entire W3C.
+[^1] The [W3C](http://w3.org/) is the international standards body responsible for the Web. 'Community Groups' (also known as 'CGs') are less formal gatherings of interested parties to work on a common goal; they do not produce standards ('Recommendations' in W3C-speak), nor do they necessarily represent consensus of the entire W3C.
 
