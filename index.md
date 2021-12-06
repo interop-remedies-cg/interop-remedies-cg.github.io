@@ -10,7 +10,7 @@ Our mission is to help legal regulators understand and apply Internet and Web ar
 
 ## Status
 
-We're just getting started; see the [proposed charter](charter.html). Come back soon for more.
+We're just getting started; see our [charter](charter.html). Come back soon for more.
 
 
 ## Who Should Participate
